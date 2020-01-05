@@ -36,7 +36,7 @@ graph TD
 # 项目成果
 ![image](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4233122803,2912666491&fm=26&gp=0.jpg)
 -  [pythonanywhere部署成功](http://kehan.pythonanywhere.com/)
--  [github URL含readme.md文档](https://note.youdao.com/)
+-  [github URL含readme.md文档](https://github.com/coco022/Python_final_project/)
 
 ## python档的描述
 1. 通过使用jupyter notebook书写Python，利用就jupyter边书写边运行的功能，可以较为顺利的完成Python文档的书写。
