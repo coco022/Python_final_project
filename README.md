@@ -63,7 +63,7 @@ graph TD
 5. 设置条件筛选，实现数据交互
 ![p4.png](https://i.loli.net/2020/01/05/SsAd3DBy2uMNTw4.png)
 
-6. 设置页面跳转，通过两个路由实现与用户之间的数据交互，通过用户的选择进行相应的数据筛选。
+6. 设置页面跳转，通过两个路由实现与用户之间的数据交互，通过用户的选择进行相应的数据筛选。此应用设置两个两个页面，url分别是：http://kehan.pythonanywhere.com/ & http://kehan.pythonanywhere.com/first 从主页面筛选数据，进入first页面，有四个不同的主题内容，全都在这两个页面实现。
 ![p5.png](https://i.loli.net/2020/01/05/PBr2OKT8bpaqEk7.png)
 
 7. 通过数据结构转换（从集合转为列表），实现数据提取
