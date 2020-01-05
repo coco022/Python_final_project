@@ -52,8 +52,10 @@
 ![p6.png](https://i.loli.net/2020/01/05/1w7bd6WYRDx9tZy.png)
 8. for循环：多个重复append是便于得出每个提取数字的重复次数
 ![p7.png](https://i.loli.net/2020/01/05/1lPi2OKdkbq3yBx.png)
+
 9. 条件判断
 ![p8.png](https://i.loli.net/2020/01/05/KQ9wOqyoSGIDxER.png)
+
 10.自定义函数：通过自定义函数实现代码重用，应用到接下去的几个扇形图绘制中
 ![p9.png](https://i.loli.net/2020/01/05/eiujwo8tI9kEZNh.png)
 
